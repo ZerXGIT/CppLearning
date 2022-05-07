@@ -13,8 +13,6 @@ using namespace std;
 // Global variable
 int globalVar = 187;
 
-void printPI();
-
 // A variable that can not be changed on Runtime
 const double PI = 3.14159265359;
 
